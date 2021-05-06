@@ -1,3 +1,3 @@
-# DS-Assignments
+# Basic statistic problems
 Data Science Assignments
 
